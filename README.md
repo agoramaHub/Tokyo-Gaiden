@@ -1,9 +1,9 @@
 ## Tokyo_Map framework read me
 
 This is a simple dynamic platform that was conceived to be an interactive mind map of sorts..
-The work was produce for the art Petra Szemán for the exhibition Geltung[Validity](http://agorama.org.uk)'s online component.
+The work was produce for the artist Petra Szemán for the exhibition [Geltung](http://agorama.org.uk)'s online component.
 
-The core idea behind the platform is to have point on a visual background that highlight when a user
+The core idea behind the platform is to have points on a visual background that highlight when a user
 interacts with the element, and when clicked activate a popup window. In this model, this is achieve
 through the use of three Javascript libraries: JQuery (3.2.1), Bootstrap's js file, and tether.js.
 
